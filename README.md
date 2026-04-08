@@ -72,7 +72,12 @@ There are many versions to choose from inside the download. I went with the simp
 
 ---
 
-Python 3.8+ required. No third-party packages needed.
+| Python 3.8+ | Runtime |
+### Python packages
+```
+pip install windows-curses
+```
+
 
 ## Usage
 

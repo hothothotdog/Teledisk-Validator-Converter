@@ -1,3 +1,9 @@
+This repository has moved to [[https://codeberg.org/hothothotdog/search_extract](https://codeberg.org/hothothotdog/search_extract)
+
+This GitHub copy is a frozen archive. New commits, issues, and pull requests should go to Codeberg.
+
+---
+
 # TD0 Validator & Converter
 
 Batch-validates `.td0` floppy disk images using `TDCHECK.EXE` and converts files that passed  to `.ima` format via `wteledsk.exe`, with a full-screen terminal UI.

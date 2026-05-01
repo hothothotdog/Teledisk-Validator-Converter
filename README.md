@@ -1,4 +1,4 @@
-This repository has moved to [[https://codeberg.org/hothothotdog/search_extract](https://codeberg.org/hothothotdog/search_extract)
+This repository has moved to [https://codeberg.org/hothothotdog/Teledisk-Validator-Converter](https://codeberg.org/hothothotdog/Teledisk-Validator-Converter)
 
 This GitHub copy is a frozen archive. New commits, issues, and pull requests should go to Codeberg.
 
